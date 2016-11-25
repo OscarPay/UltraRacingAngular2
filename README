@@ -1,0 +1,3 @@
+nmp init --> Crear el package json
+npm install --> Instalar los modulos necesarios
+npm start --> Correr el servidor
